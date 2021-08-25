@@ -1,6 +1,6 @@
-/**
- * the main/root data type in dart is called object. 
- */
+/// 
+/// the main/root data type in dart is called object. 
+///
 
 //type conversion
 
