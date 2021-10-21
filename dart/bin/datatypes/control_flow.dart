@@ -43,5 +43,5 @@ void main(List<String> args) {
 // enums
 enum MenuItem {
   profile,
-  settings,
+   settings
 }
